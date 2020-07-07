@@ -1,5 +1,5 @@
-# Market_Data_Insights
-Analysis of a sample Market data. Created dashboards in PowerBI to draw insights.
+# Financial_Data_Insights
+Analysis of a sample Financial data. Created dashboards in PowerBI to draw insights.
 # 2. Data Analytics and insights on a sample Financial data using Microsoft Power BI
 # Exploratory Data Analysis (EDA)
     1. The company has its presence in 5 countries namely: USA, Canada, France, Germany and Mexico.
@@ -7,7 +7,7 @@ Analysis of a sample Market data. Created dashboards in PowerBI to draw insights
     3. Market segments are divided as: Channel Partners, Enterprise, Government, Midmarket and Small Business.
     4. We have the data for 2 years: 2013 and 2014.
 
- !['Dashboard of page 3'](Images/dash2a.png)
+ !['Dashboard of page 3'](Images1/dash2a.png)
  
 # Financial Insights
     ------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,7 +17,7 @@ Analysis of a sample Market data. Created dashboards in PowerBI to draw insights
     4. Profit by product     | Highest is Paseo, $4.8M  | Lowest is Carretera, $1.8M    |
     5. Increase in profit    | $3.88M in 2013           | $13.02M in 2014|staggering 235.56% increase in the profit| 
     -------------------------------------------------------------------------------------------------------------------------------------------------
- !['Dashboard of page 1'](Images/dash3a.png)
+ !['Dashboard of page 1'](Images1/dash3a.png)
 
  
 # Market Share 
@@ -29,7 +29,7 @@ Analysis of a sample Market data. Created dashboards in PowerBI to draw insights
 | Germany | $23.51M     | 19.80%          |
 | Mexico  | $20.95M     | 17.64%          |
 
-!['Dashboard of page 2'](Images/dash1a.png)
+!['Dashboard of page 2'](Images1/dash1a.png)
 
 # Conclusion
-We can gain a lot of insights from the maket data, like which product sells best, which country genarates more income, etc.. I had included a type of visualization called "GUAGE" for total sales, which shows the current sales, sales income for next year and fictituous overall sales target for the company . I had included filters, wherein we can drill through a particular country or product or segment and gain an indepth insisghts/analysis for that particular category. 
+We can gain a lot of insights from the financial data, such as, which product sells best, which country genarates more income, etc.. I had included a type of visualization called "GUAGE" for total sales, which shows the current sales, sales income for next year and fictituous overall sales target for the company . I had included filters, wherein we can drill through a particular country or product or segment and gain an indepth insisghts/analysis for that particular category. 
